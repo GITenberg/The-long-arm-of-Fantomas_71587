@@ -1,0 +1,47 @@
+_repo: The-long-arm-of-Fantomas_71587
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Allinson, A. R. (Alfred Richard)
+    alias: Allinson, Alfred Richard
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '8208'
+    url: http://www.gutenberg.org/2009/agents/8208
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+creator:
+  authors:
+  - agent_name: Allain, Marcel
+    birthdate: 1885
+    deathdate: 1969
+    gutenberg_agent_id: '32911'
+    url: http://www.gutenberg.org/2009/agents/32911
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcel_Allain
+    - https://fr.wikipedia.org/wiki/Marcel_Allain
+  - agent_name: Souvestre, Pierre
+    birthdate: 1874
+    deathdate: 1914
+    gutenberg_agent_id: '32910'
+    url: http://www.gutenberg.org/2009/agents/32910
+    wikipedia: https://en.wikipedia.org/wiki/Pierre_Souvestre
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71587'
+language: en
+pgterms:marc904: https://archive.org/details/longarmoffantoma00souv/page/n7/mode/2up
+pgterms:marc905: 20201225132733souvestre
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor, David Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Macauley Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The long arm of Fantômas
+url: http://www.gutenberg.org/ebooks/71587
