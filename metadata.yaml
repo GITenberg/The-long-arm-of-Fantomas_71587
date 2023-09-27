@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8208'
     url: http://www.gutenberg.org/2009/agents/8208
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+covers:
+- cover_type: archival
+  image_path: 71587-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Allain, Marcel
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32910
     wikipedia: https://en.wikipedia.org/wiki/Pierre_Souvestre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71587#The-long-arm-of-Fantomas
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71587'
